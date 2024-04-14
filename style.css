@@ -86,15 +86,9 @@ main {
     margin-inline: 1.5rem;
     display: grid;
     gap: 1.5rem;
-    max-width: 24rem;
+    width: 24rem;
     border-radius: 0.75rem;
     font-weight: 400;
-}
-
-@media (min-width: 600) {
-    .card {
-        width: 24rem;
-    }
 }
 
 .avatar {
